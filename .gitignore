@@ -1,0 +1,16 @@
+*.iml
+.gitignore.swp
+app/build/
+app/libs/
+app/proguard-rules.pro
+app/src/androidTest/
+app/src/test/
+app/src/main/java/cl/fjnu/edu/cn/android_myTest
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
